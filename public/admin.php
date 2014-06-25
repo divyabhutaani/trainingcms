@@ -1,20 +1,15 @@
-<html>
-<head>
-<title>
-TARGET INTEGRATION
-</title>
-<link href="stylesheets/public.css" media="all" rel="stylesheet" type="text/css">
-</head>
-<body>
-	<div id="header">
-		<h1>TARGET INTEGRATION </h1>
-	</div>
+
+<?php
+include("../includes/layouts/header.php")
+?>
+
 	
-	<div id="main">
-		<div id="navigation">
+<div id="main">
+    <div id="navigation">
 		
-		</div>
-		<div id="page">
+    </div>
+
+	<div id="page">
 			<h2>ADMIN AREA</h2>
 			<h1> Welcome to TARGET INTEGRATION</h1>
 			<ul>
@@ -24,18 +19,11 @@ TARGET INTEGRATION
 			</ul>
 		
 		
-		</div>
+	</div>
 		
 		
-	</div>
-	
-	<div id="footer">
-	copyright@targetintegration
-	</div>
-	
-	
-	</div>
+</div>
 
-
-</body>
-</hmtl>
+<?php
+include("../includes/layouts/footer.php")
+?>

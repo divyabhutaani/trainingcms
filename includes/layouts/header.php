@@ -9,5 +9,3 @@
 <div id="header">
     <h1>TARGET INTEGRATION </h1>
 </div>
-
-<div id="main">
